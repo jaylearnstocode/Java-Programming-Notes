@@ -66,3 +66,6 @@ This guide covers a wide range of Java topics, organized from beginner to advanc
 
 ```bash
 git clone https://github.com/your-username/java-programming-notes.git
+
+``bash
+View the notes here: https://docs.google.com/document/d/1bBB7HFSygp2T3NLCOHZL6yCGzf5g5yA9dOHMqmmr0XE/edit?usp=sharing
