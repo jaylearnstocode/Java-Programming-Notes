@@ -4,7 +4,7 @@ Welcome to this comprehensive set of notes on **Java programming**, based on the
 
 https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java
 
-These notes are designed for beginners and gradually progress toward more advanced topics. They were originally wrote by me as a personal study guide but have since received nearly **4,000 stars and favorites** on the Chinese social media app 🍠 **Red Notes** ([view this post here](96 COVFEFE转码中发布了一篇小红书笔记，快来看吧！ 😆 uiNbrZ7r63IQf8y 😆 http://xhslink.com/a/84MbO84ePAXbb，复制本条信息，打开【小红书】App查看精彩内容！), becoming a popular resource among those starting their journey in software development.
+These notes are designed for beginners and gradually progress toward more advanced topics. They were originally wrote by me as a personal study guide but have since received nearly **4,000 stars and favorites** on the Chinese social media app 🍠 **Red Notes** ([view this post here]((https://www.xiaohongshu.com/explore/66eed5fa000000001e018f1c?app_platform=ios&app_version=8.81.2&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBUKO0rWL74DsISmvplGe5Jg4nXZvlsL9fTk_NlVBEUG8=&author_share=1&xhsshare=CopyLink&shareRedId=N0gyNzs9OjpLP0ZFO0ozPjs2SzlIOEhC&apptime=1746606688&share_id=618fbd4860fe4309a215efc3b888ff3c)), becoming a popular resource among those starting their journey in software development.
 
 > 💡 These notes were my introduction to programming and helped build a strong foundation in computer science. I hope they can do the same for you.
 
