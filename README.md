@@ -2,7 +2,9 @@
 
 Welcome to this comprehensive set of notes on **Java programming**, based on the course *Introduction to Object-Oriented Programming with Java* by **Georgia Tech**.
 
-These notes are designed for beginners and gradually progress toward more advanced topics. They were originally created as a personal study guide but have since received nearly **2,000 stars and favorites**, becoming a popular resource among those starting their journey in software development.
+https://www.edx.org/certificates/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java
+
+These notes are designed for beginners and gradually progress toward more advanced topics. They were originally wrote by me as a personal study guide but have since received nearly **2,000 stars and favorites** on the Chinese social media app **Red Notes**, becoming a popular resource among those starting their journey in software development.
 
 > 💡 These notes were my introduction to programming and helped build a strong foundation in computer science. I hope they can do the same for you.
 
@@ -56,12 +58,6 @@ This guide covers a wide range of Java topics, organized from beginner to advanc
 ---
 
 ## 🚀 Getting Started
-
-To follow along:
-1. Install the [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-2. Use an IDE like [IntelliJ IDEA](https://www.jetbrains.com/idea/) or [Eclipse](https://www.eclipse.org/)
-3. Clone or download this repository
-4. Explore topics in order or jump to areas of interest
 
 ```bash
 git clone https://github.com/your-username/java-programming-notes.git
